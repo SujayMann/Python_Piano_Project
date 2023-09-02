@@ -12,8 +12,8 @@ This project is a simple piano application built using PyQt5 and playsound libra
 
 ## About
 
-This project was developed as a collaboration between you and your co-partners, Rajvansh Singh and Sujay Mann. 
-It uses the PyQt5 library for creating the graphical interface and the playsound library to produce sound notes.
+This project was developed as a collaboration between me and my co-partners, Gurpreet Singh and Rajvansh Singh. 
+It uses the PyQt5 library for creating the graphical interface and the playsound library to play the piano notes.
 Feel free to explore the code to learn more about how the interface is designed and how notes are played using the playsound library.
 
 
@@ -33,13 +33,13 @@ Feel free to explore the code to learn more about how the interface is designed 
 
 - Python 3.x
 - PyQt5 library (`pip install PyQt5`)
-
+- playsound library (`pip install playsound`)
 
 ## Usage
 
     Click on the piano keys using your mouse to play the corresponding notes.
     Use the following keyboard shortcuts to play notes:
-        Q, W, E, R, T, Y, U, C, V, B, N, M, `, F, G, J, K, L
+        Q, 2, W, 3, E, R, 5, T, 6, Y, 7, U, C, F, V, G, B, N, J, M, K, ',', L, '.', '/' 
 
 ## Keyboard-Shortcuts
 
