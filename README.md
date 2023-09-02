@@ -25,9 +25,9 @@ Feel free to explore the code to learn more about how the interface is designed 
 
 ## Collaborators
 
-- Gurpreet Singh(#Gurry-12)
-- Rajvansh Singh(@Rajvansh0110)
-- Sujay Mann(@SujayMann)
+- [Gurpreet Singh](@Gurry-12)
+- [Rajvansh Singh](@Rajvansh0110)
+- [Sujay Mann](@SujayMann)
 
 ## Prerequisites
 
